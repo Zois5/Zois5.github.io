@@ -1,0 +1,40 @@
+
+.container{
+	background-color:  #aebdca;
+	
+}
+
+
+.card-title{
+font-style: italic;
+font-size: 50px;
+color: black;
+}
+body{
+	text-align: center;
+}
+.dog{
+	font-size: 40px;
+	font-style: oblique;
+}
+.card-img-top{
+	: center;
+}
+.card-title1{
+font-size: 50px;
+font-style: italic;
+color: darkblue;
+}
+.card-title2{
+	font-size: 50px;
+	font-style: italic;
+	color: darkblue;
+}
+p{
+
+font-size: 20px;
+}
+.navbar-brand{
+	text-shadow:  initial;
+	font-style: Fantasy; 
+}
