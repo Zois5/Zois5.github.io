@@ -1,0 +1,33 @@
+h2{
+	color:purple;
+}
+ol{
+	font-weight: bold;
+}
+li{
+	color:green;
+	font-size: 30px;
+}
+form{
+	border-style: solid;
+	border-color: purple;
+
+}
+body{ 
+	text-align: center;
+}
+.photo {
+	width : 400px ;
+}
+p{
+	font-weight: bold;
+	color:red;
+	font-size: 20px
+}
+h2{
+	
+	font-weight: bold;
+	color:black;
+	font-size: 50px
+
+}
